@@ -2,7 +2,7 @@ A simple counter app built while learning react from youtube tutorial.
 
 Learning React! 
 
-React Tutorial! Learn React! React Crash Course! 
+React Tutorial! Learn React! React Crash Course!
 https://youtu.be/Ke90Tje7VS0  
 Programming with Mosh
 
