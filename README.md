@@ -1,3 +1,3 @@
 A simple counter app built while learning react from youtube tutorial.
 
-<a target="_blank" href="https://cartify.netlify.com">See how this works!</a>
+<a href="https://cartify.netlify.com" target="_blank">See how this works!</a>
